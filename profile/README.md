@@ -1,10 +1,9 @@
 <div align="center">
 
-# EduBridge
+# EduBridge | جسر التعليمي
 
+### تعليم شامل. دعم مترابط. تعلّم أذكى.
 ### Inclusive education. Connected support. Smarter learning.
-
-**EduBridge** is a bilingual Arabic/English education and accessibility platform designed to connect children, parents, teachers, specialists, institutions, and ministries in one unified ecosystem.
 
 [![Website](https://img.shields.io/badge/Website-edubridge.win-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://edubridge.win)
 [![Platform](https://img.shields.io/badge/Platform-Web%20%2B%20Mobile-7C3AED?style=for-the-badge)](https://github.com/EduBridge-Team/EduBridge)
@@ -14,11 +13,219 @@
 
 ---
 
+<div dir="rtl" align="right">
+
+# العربية 🇵🇸
+
+## عن جسر التعليمي
+
+**EduBridge – جسر التعليمي** هي منصة تعليمية شاملة ثنائية اللغة، صُممت لربط الأطفال وأولياء الأمور والمعلمين والأخصائيين والمؤسسات والجهات الإشرافية ضمن منظومة واحدة مترابطة.
+
+بدل أن يعمل كل طرف ضمن نظام منفصل، تجمع المنصة جميع الأطراف حول تجربة تعليمية موحّدة للطالب، مع مراعاة الاحتياجات الفردية، إمكانية الوصول، الصلاحيات، والمتابعة المستمرة للتقدم.
+
+تجمع المنصة بين:
+
+- التعليم المخصص لكل طالب
+- دعم إمكانية الوصول والتكييفات التعليمية
+- التعاون بين ولي الأمر والمعلم والأخصائي
+- متابعة تقدم الطالب
+- الدروس والواجبات
+- الملفات والتقارير التعليمية
+- توثيق الهوية والاعتمادات المهنية
+- الإشعارات والتواصل
+- الإرشاد المدعوم بالذكاء الاصطناعي عبر **نور Noor**
+- تجربة عربية وإنجليزية على الويب وتطبيق الهاتف
+
+---
+
+## نور – المساعد الذكي
+
+**نور** هو المساعد الذكي داخل EduBridge.
+
+صُمم نور لمساعدة المستخدمين على التنقل داخل المنصة، فهم المعلومات، والوصول إلى إرشادات تعليمية واعية بالسياق، مع احترام صلاحيات كل مستخدم وحدود دوره داخل النظام.
+
+نور ليس روبوت محادثة منفصلًا، بل جزء متكامل من تجربة EduBridge.
+
+---
+
+## لمن صُممت EduBridge؟
+
+| الفئة | التجربة |
+|---|---|
+| **أولياء الأمور** | متابعة تعلم الأطفال، الدروس، الواجبات، التقدم، وخطط الدعم |
+| **المعلمون** | إدارة الدروس والواجبات ومتابعة تقدم الطلاب والسجلات التعليمية |
+| **الأخصائيون** | متابعة الطلاب، التقييمات، التكييفات، والتقدم الأسبوعي |
+| **المؤسسات** | تنسيق الخدمات التعليمية وإدارة سير العمل المؤسسي |
+| **الوزارات والجهات الإشرافية** | الإشراف على المستوى الأعلى والوصول إلى التقارير والمؤشرات |
+| **مديرو النظام** | إدارة المستخدمين، التحقق، العمليات، والصلاحيات |
+
+---
+
+## المجالات الرئيسية للمنصة
+
+### التعليم
+
+- الدروس
+- الواجبات
+- ملفات الطلاب
+- متابعة التقدم
+- تقارير المعلمين
+- الشهادات
+- المحتوى التعليمي
+
+### إمكانية الوصول والدعم
+
+- تكييفات مخصصة للطالب
+- متابعة الأخصائيين
+- التقييمات
+- تجارب تراعي إمكانية الوصول
+- دعم احتياجات التعلم المتنوعة
+
+### التعاون
+
+- تواصل ولي الأمر مع المعلم
+- تنسيق عمل الأخصائيين
+- الإشعارات
+- سياق مشترك للطالب
+- وصول مبني على الأدوار والصلاحيات
+
+### الثقة والأمان
+
+- التحقق من الهوية
+- التحقق من اعتماد الأخصائيين
+- حماية المستندات الحساسة
+- فرض الصلاحيات من الخادم
+- ترويسات أمان وحماية على مستوى الشبكة
+- تحديد المعدل والحماية من إساءة الاستخدام
+- نشر إنتاجي محصّن
+
+---
+
+## التقنيات
+
+</div>
+
+<div align="center">
+
+### Backend
+
+![Laravel](https://img.shields.io/badge/Laravel_13-FF2D20?logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.4-777BB4?logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-4169E1?logo=postgresql&logoColor=white)
+
+### Web & Mobile
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?logo=caddy&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?logo=oracle&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+</div>
+
+<div dir="rtl" align="right">
+
+---
+
+## المعمارية
+
+```text
+المستخدمون
+    │
+    ├── الويب — React + Vite
+    └── الهاتف — Flutter
+            │
+            ▼
+        Cloudflare
+            │
+            ▼
+          Caddy
+            │
+            ▼
+      Laravel REST API
+            │
+            ├── PostgreSQL
+            ├── Object Storage
+            └── Noor AI Services
+```
+
+يتم نشر EduBridge كمنظومة إنتاجية تعتمد الحاويات، مع Cloudflare على الحافة وبنية Oracle Cloud خلفها.
+
+---
+
+## إمكانية الوصول أولًا
+
+إمكانية الوصول ليست ميزة إضافية في EduBridge، بل جزء أساسي من طريقة تصميم المنصة.
+
+نؤمن بأن البرمجيات التعليمية يجب أن تتكيف مع المتعلم وشبكة الدعم المحيطة به، وليس العكس.
+
+ويشمل ذلك:
+
+- تكييفات مخصصة لكل طالب
+- واجهات مختلفة حسب الدور
+- تجربة محسّنة للهواتف
+- دعم كامل للعربية واتجاه RTL
+- دعم الإنجليزية واتجاه LTR
+- تنقل واضح وبسيط
+- مسارات تعليمية تراعي إمكانية الوصول
+- دعم سياقات التربية والتعليم المتخصص
+
+---
+
+## الأمان والاعتمادية
+
+تتبنى EduBridge نموذج أمان موجه للإنتاج:
+
+```text
+المصادقة             → JWT + تحقق من الخادم
+الصلاحيات             → فرض الأدوار والصلاحيات عبر API
+أمان الشبكة           → Cloudflare + تقييد الوصول للأصل
+أمان النقل            → HTTPS + HSTS
+أمان المتصفح          → CSP + Security Headers
+حماية البيانات        → تخزين خاص للمستندات الحساسة
+منع إساءة الاستخدام   → Rate Limiting على الحافة والتطبيق
+التسليم               → CI/CD + اختبارات Smoke بعد النشر
+```
+
+---
+
+## المستودع الرئيسي
+
+المشروع الأساسي لـ EduBridge متوفر في:
+
+### [EduBridge-Team/EduBridge](https://github.com/EduBridge-Team/EduBridge)
+
+ويحتوي على Laravel API، تطبيق React للويب، تطبيق Flutter للهاتف، إعدادات النشر، أدوات الأمان، والتوثيق التقني.
+
+---
+
+## الموقع الرسمي
+
+<div align="center">
+
+### [edubridge.win](https://edubridge.win)
+
+**نبني تجربة تعليمية أكثر شمولًا، ترابطًا، وقدرة على التكيف مع احتياجات كل متعلم.**
+
+</div>
+
+</div>
+
+---
+
+# English 🇬🇧
+
 ## About EduBridge
 
-EduBridge helps coordinate the educational journey of children who need personalized learning and accessibility support.
+**EduBridge** is a bilingual Arabic/English education and accessibility platform designed to connect children, parents, teachers, specialists, institutions, and oversight bodies in one unified ecosystem.
 
-Instead of separating parents, teachers, specialists, institutions, and administrators into disconnected systems, EduBridge brings them together around one shared student experience.
+Instead of separating each stakeholder into disconnected systems, EduBridge brings everyone together around one shared student experience while supporting personalization, accessibility, role-based permissions, and continuous progress tracking.
 
 The platform combines:
 
@@ -27,7 +234,7 @@ The platform combines:
 - Parent–teacher–specialist collaboration
 - Student progress tracking
 - Lessons and homework
-- Educational and medical documentation
+- Educational records and reports
 - Identity and professional verification
 - Notifications and communication
 - AI-assisted guidance through **Noor**
@@ -39,9 +246,9 @@ The platform combines:
 
 **Noor** is EduBridge's intelligent assistant.
 
-Noor is designed to help users navigate the platform, understand information, and receive context-aware educational guidance while respecting role permissions and platform boundaries.
+Noor helps users navigate the platform, understand information, and receive context-aware educational guidance while respecting role permissions and platform boundaries.
 
-The assistant is integrated into the EduBridge experience rather than operating as a separate chatbot.
+The assistant is integrated directly into the EduBridge experience rather than operating as a separate chatbot.
 
 ---
 
@@ -50,11 +257,11 @@ The assistant is integrated into the EduBridge experience rather than operating 
 | Role | Experience |
 |---|---|
 | **Parents** | Follow their children's learning, lessons, homework, progress, and support |
-| **Teachers** | Manage lessons, homework, student progress, and classroom-related records |
+| **Teachers** | Manage lessons, homework, student progress, and educational records |
 | **Specialists** | Follow assigned students, evaluations, adaptations, and weekly progress |
 | **Institutions** | Coordinate educational services and organizational workflows |
-| **Ministries** | Access higher-level educational oversight and reporting capabilities |
-| **Administrators** | Manage users, verification, platform operations, and governance |
+| **Ministries & Oversight Bodies** | Access higher-level educational oversight, reporting, and indicators |
+| **Administrators** | Manage users, verification, platform operations, and permissions |
 
 ---
 
@@ -72,7 +279,7 @@ The assistant is integrated into the EduBridge experience rather than operating 
 
 ### Accessibility & Support
 
-- Student adaptations
+- Personalized student adaptations
 - Specialist follow-up
 - Evaluations
 - Accessibility-aware experiences
@@ -93,7 +300,8 @@ The assistant is integrated into the EduBridge experience rather than operating 
 - Private sensitive-document handling
 - Backend-enforced authorization
 - Security headers and edge protections
-- Rate limiting and hardened production deployment
+- Rate limiting and abuse protection
+- Hardened production deployment
 
 ---
 
@@ -203,7 +411,7 @@ The repository contains the Laravel API, React web application, Flutter mobile a
 
 ### [edubridge.win](https://edubridge.win)
 
-**Building a more connected and inclusive educational experience.**
+**Building a more connected, inclusive, and adaptive educational experience.**
 
 </div>
 
@@ -211,8 +419,9 @@ The repository contains the Laravel API, React web application, Flutter mobile a
 
 <div align="center">
 
-## EduBridge
+## EduBridge | جسر التعليمي
 
+**لكل متعلم الحق في تجربة تعليمية مبنية حول احتياجاته.**  
 **Every learner deserves an experience built around their needs.**
 
 <sub>Education · Accessibility · Collaboration · AI</sub>
